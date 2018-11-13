@@ -1,2 +1,10 @@
-﻿  main.cpp
+﻿  display.cpp
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(136): warning C4018: '>': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(137): warning C4018: '>': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(138): warning C4018: '>': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(139): warning C4018: '>': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(194): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(196): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(204): warning C4018: '<': signed/unsigned mismatch
+c:\users\kenneth\source\repos\trench3d\trench3d\display.cpp(206): warning C4018: '<': signed/unsigned mismatch
   trench3d.vcxproj -> C:\Users\Kenneth\source\repos\trench3d\temp\trench3d.exe
